@@ -1,0 +1,6 @@
+.form-container {
+  display: block;
+}
+.form-container:not(:last-child) {
+  margin-bottom: 24px;
+}
